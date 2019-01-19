@@ -26,3 +26,21 @@ JavaScript - Adds behavior and interactivity
 - However it is great at manipulating web pages.
 ```
 
+ ```bash
+     JavaScript is a client Side Language
+ ```
+
+
+```json
+    Client / Browser 
+HTML
+CSS
+JavaScript
+
+	Server
+Ruby on Rails
+PHP
+ASP.NET
+
+```
+
