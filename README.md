@@ -1,5 +1,4 @@
 # JavaScript
--------------
 
 The All Link Tutorial:
 
@@ -49,3 +48,18 @@ ASP.NET
 
 ```
 
+```json
+Do Not Rely(compte) on JavaScript
+JavaScript should ENHANCE your audience's experience only.
+Do not rely on JavaScript to add core functionality to your website.
+```
+
+ ```bash
+And Finally...
+```
+
+```json
+- JavaScript is NOT, and has NOTHING to do with JAVA
+- Javascript is just a name that was given to it while JAVA was really popular
+- The official name for JavaScript is ECMAScript
+```
