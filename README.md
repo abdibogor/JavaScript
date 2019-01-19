@@ -3,7 +3,7 @@
 
 The All Link Tutorial:
 
-0.Chris Johnson = [https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl]
+0.Chris Johnson = https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl
 
  Learning the fundamentals of a language will enable you to create the program you desire, whether client-side or server-side.
 
