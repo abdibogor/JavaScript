@@ -10,32 +10,30 @@ The All Link Tutorial:
  	One of Three Core Languages.
  ```
 
-```json
+
 HTML - Controls the structure of your web page
 CSS - Controls the presentation/design
 JavaScript - Adds behavior and interactivity
-
- ```
 
 
  ```bash
      JavaScript is Scripting Language
  ```
 
-```json
+
 - Intentional limited
 - Doesn't have the same features as other
 - Programming languages (C++, Java)
 - Cannot communicate directly with a database , or file system on a computer
 - However it is great at manipulating web pages.
-```
+
 
  ```bash
      JavaScript is a client Side Language
  ```
 
 
-```json
+
 Client / Browser 
 HTML
 CSS
@@ -46,20 +44,17 @@ Ruby on Rails
 PHP
 ASP.NET
 
-```
 
-```json
 Do Not Rely(compte) on JavaScript
 JavaScript should ENHANCE your audience's experience only.
 Do not rely on JavaScript to add core functionality to your website.
-```
+
 
  ```bash
 And Finally...
 ```
 
-```json
+
 - JavaScript is NOT, and has NOTHING to do with JAVA
 - Javascript is just a name that was given to it while JAVA was really popular
 - The official name for JavaScript is ECMAScript
-```
