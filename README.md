@@ -2,8 +2,8 @@
 
 The All Link Tutorial:
 
-0.Chris Johnson **[https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl](https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl)**
-1.ACccion Code = (https://www.youtube.com/playlist?list=PLEDbaVSIL58PGMFRXCexch93F7FSFRHCg)
+0.Chris Johnson: **[https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl](https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl)**
+1.ACccion Code: **[https://www.youtube.com/playlist?list=PLEDbaVSIL58PGMFRXCexch93F7FSFRHCg](https://www.youtube.com/playlist?list=PLEDbaVSIL58PGMFRXCexch93F7FSFRHCg)**
 2.Wes Bos = (https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 3.LearnCode.academy = (https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
 4.tutor4u = (https://www.youtube.com/playlist?list=PL4C880E8B37C739D4)
