@@ -65,12 +65,12 @@
 
 
 
-##Client/Browser 
+## Client/Browser 
 * HTML
 * CSS
 * JavaScript
 
-##Server
+## Server
 * Ruby on Rails
 * PHP
 * ASP.NET
