@@ -52,9 +52,9 @@
 	* CSS
 	* Bootstrap
 	* JavaScript
-	* _JQuery_
-	* Angular
-	* Reactjs
+	* __JQuery__
+	* __Angular__
+	* __Reactjs__
 
 * Server
 	* Ruby on Rails
