@@ -34,6 +34,8 @@
 11.kudvenkat: [](https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b)
 12. EJ Media JQuery: [](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
 
+---------------
+
 ## JavaScript
 
  Learning the fundamentals of a language will enable you to create the program you desire, whether client-side or server-side.
