@@ -51,9 +51,9 @@
 	* HTML
 	* CSS
 	* JavaScript
-				>JQuery_
-				>Angular_
-				>Reactjs_
+				> JQuery
+				> Angular
+				> Reactjs
 
 * Server
 	* Ruby on Rails
