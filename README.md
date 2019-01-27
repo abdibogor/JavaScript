@@ -47,15 +47,15 @@
 
 
 
-## Client/Browser 
-* HTML
-* CSS
-* JavaScript
+* Client/Browser 
+	* HTML
+	* CSS
+	* JavaScript
 
-## Server
-* Ruby on Rails
-* PHP
-* ASP.NET
+* Server
+	* Ruby on Rails
+	* PHP
+	* ASP.NET
 
 
 Do Not Rely(compte) on JavaScript
