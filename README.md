@@ -51,11 +51,14 @@
 	* HTML
 	* CSS
 	* JavaScript
+	* JQuery
 
 * Server
 	* Ruby on Rails
 	* PHP
 	* ASP.NET
+	* Django
+	* JAVA EE
 
 
 Do Not Rely(compte) on JavaScript
