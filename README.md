@@ -5,13 +5,14 @@
 2. ACccion Code: [https://www.youtube.com/playlist?list=PLEDbaVSIL58PGMFRXCexch93F7FSFRHCg](https://www.youtube.com/playlist?list=PLEDbaVSIL58PGMFRXCexch93F7FSFRHCg)
 3. Wes Bos: **[https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)**
 4. LearnCode.academy: [https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
-5. tutor4u: [https://www.youtube.com/playlist?list=PL4C880E8B37C739D4](https://www.youtube.com/playlist?list=PL4C880E8B37C739D4)
+5. tutor4u: **[https://www.youtube.com/playlist?list=PL4C880E8B37C739D4](https://www.youtube.com/playlist?list=PL4C880E8B37C739D4)**
 6. slidenerd: [https://www.youtube.com/playlist?list=PLonJJ3BVjZW7khFksz6Xb14lykip4DKNX](https://www.youtube.com/playlist?list=PLonJJ3BVjZW7khFksz6Xb14lykip4DKNX)
-7. Easy Learn Tutorial: [https://www.youtube.com/playlist?list=PLGJDCzBP5j3xKdHn-RYHvk3uafZSN0eYV](https://www.youtube.com/playlist?list=PLGJDCzBP5j3xKdHn-RYHvk3uafZSN0eYV)
+7. Easy Learn Tutorial: **[https://www.youtube.com/playlist?list=PLGJDCzBP5j3xKdHn-RYHvk3uafZSN0eYV](https://www.youtube.com/playlist?list=PLGJDCzBP5j3xKdHn-RYHvk3uafZSN0eYV)**
 8. The Net Ninja: [https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-9. codedamn: [https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR](https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR)
+9. codedamn: **[https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR](https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR)**
 10. EJ Media JavaScript: [(https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
-11.kudvenkat: [https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b](https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b)
+
+11.kudvenkat: **[https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b](https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b)**
 12. EJ Media JQuery: [https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
 
 ---------------
