@@ -41,19 +41,19 @@
 - However it is great at manipulating web pages.
 
 
- ```bash
-     JavaScript is a client Side Language
- ```
+
+     `JavaScript is a client Side Language`
+
 
 
 
 * Client/Browser 
 	* HTML
 	* CSS
-	* JavaScript
-		_JQuery_
-		_Angular_
-		_Reactjs_
+		* JavaScript
+					_JQuery_
+					_Angular_
+					_Reactjs_
 
 * Server
 	* Ruby on Rails
