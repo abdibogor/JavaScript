@@ -52,7 +52,7 @@
 	* CSS
 	* Bootstrap
 	* JavaScript
-	* JQuery
+	* _JQuery_
 	* Angular
 	* Reactjs
 
