@@ -36,12 +36,12 @@
 
 ---------------
 
-## JavaScript
+### JavaScript
 
  Learning the fundamentals of a language will enable you to create the program you desire, whether client-side or server-side.
 
 
- * One of Three Core Languages.
+ **One of Three Core Languages.
 * HTML - Controls the structure of your web page
 * CSS  - Controls the presentation/design
 * JavaScript - Adds behavior and interactivity
@@ -65,15 +65,15 @@
 
 
 
-Client / Browser 
-HTML
-CSS
-JavaScript
+##Client/Browser 
+* HTML
+* CSS
+* JavaScript
 
-Server
-Ruby on Rails
-PHP
-ASP.NET
+##Server
+* Ruby on Rails
+* PHP
+* ASP.NET
 
 
 Do Not Rely(compte) on JavaScript
