@@ -3,16 +3,27 @@
 The All Link Tutorial:
 
 0.Chris Johnson = https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl
+
 1.ACccion Code = https://www.youtube.com/playlist?list=PLEDbaVSIL58PGMFRXCexch93F7FSFRHCg
+
 2.Wes Bos = https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH
+
 3.LearnCode.academy = https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_
+
 4.tutor4u = https://www.youtube.com/playlist?list=PL4C880E8B37C739D4
+
 5.slidenerd = https://www.youtube.com/playlist?list=PLonJJ3BVjZW7khFksz6Xb14lykip4DKNX
+
 6.Easy Learn Tutorial = https://www.youtube.com/playlist?list=PLGJDCzBP5j3xKdHn-RYHvk3uafZSN0eYV
+
 7.The Net Ninja = https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
+
 8.codedamn = https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR
+
 9.EJ Media JavaScript = https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl
+
 10.kudvenkat = https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b
+
 11.EJ Media JQuery = https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1
 
 
