@@ -1,6 +1,6 @@
-# JavaScript
+### JavaScript
 
-###The All Link Tutorial:
+### The All Link Tutorial:
 
 1. Chris Johnson: **[https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl](https://www.youtube.com/playlist?list=PLzi8dDyr-I0l4t4cbCdbKnswBgmpUcjQl)**
 
