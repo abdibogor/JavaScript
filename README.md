@@ -10,9 +10,10 @@
 7. Easy Learn Tutorial: **[https://www.youtube.com/playlist?list=PLGJDCzBP5j3xKdHn-RYHvk3uafZSN0eYV](https://www.youtube.com/playlist?list=PLGJDCzBP5j3xKdHn-RYHvk3uafZSN0eYV)**
 8. The Net Ninja: [https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 9. codedamn: **[https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR](https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR)**
-10. EJ Media JavaScript: [(https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
+10. EJ Media JavaScript: [https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
 
 11.kudvenkat: **[https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b](https://www.youtube.com/playlist?list=PL6n9fhu94yhUA99nOsJkKXBqokT3MBK0b)**
+
 12. EJ Media JQuery: [https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
 
 ---------------
