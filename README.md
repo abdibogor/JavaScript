@@ -50,10 +50,11 @@
 * Client/Browser 
 	* HTML
 	* CSS
+	* Bootstrap
 	* JavaScript
-				* JQuery
-				* Angular
-				* Reactjs
+	* JQuery
+	* Angular
+	* Reactjs
 
 * Server
 	* Ruby on Rails
