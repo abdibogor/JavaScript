@@ -38,14 +38,11 @@
 
  Learning the fundamentals of a language will enable you to create the program you desire, whether client-side or server-side.
 
- ```bash
- 	One of Three Core Languages.
- ```
 
-
-HTML - Controls the structure of your web page
-CSS - Controls the presentation/design
-JavaScript - Adds behavior and interactivity
+ * One of Three Core Languages.
+* HTML - Controls the structure of your web page
+* CSS  - Controls the presentation/design
+* JavaScript - Adds behavior and interactivity
 
 
  ```bash
