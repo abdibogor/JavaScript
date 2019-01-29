@@ -67,9 +67,11 @@
 * Server
 	* Ruby on Rails
 	* PHP
-	* ASP.NET
+	* ASP
 	* Django
 	* JAVA EE
+	* Node.js
+	* Raspberry Pi
 
 
 
