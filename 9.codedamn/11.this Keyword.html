@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+	<body>
+
+<div id="one" onclick="x(this)">Hello World</div>
+
+	<script type="text/javascript">
+			//window
+			/*
+			function x() {
+				alert(this);
+			}
+			x();
+			*/
+
+			/*
+			function x(event) {
+				alert(event);
+				alert(this);
+			}
+			*/
+
+			function myObject() {
+				var a = 300;
+				this.x = 100;
+				this.y = 200;
+				this.z = function() {
+					return this.x*this.y;
+				}
+			}
+
+			var o = new myObject();
+			o.x = 300;
+			console.log(o.a); // undefined
+			console.log(o.x); // 100
+			console.log(o.y); // 200
+			console.log(o.z()); // 200000
+
+	</script>
+</body>
+</html> 
+

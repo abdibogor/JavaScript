@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Abdibogoreh</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
+	<link type="text/css" rel="stylesheet" href="jqueryui/jquery-ui.css">
+	<link type="text/css" rel="stylesheet" href="jqueryui/jquery-ui.structure.css">
+    <link type="text/css" rel="stylesheet" href="jqueryui/jquery-ui.theme.css">
+    <link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+  
+<body>
+
+	<div id="left">
+<h2>This is a heading</h2>
+		
+        <p class="para2">This is FIRST para </p>
+        <p>This is Second para </p>
+
+        Pick a travel date: <input type="text" id="pickdate">
+
+	</div>
+	
+	<div id="center">
+		
+		<ul>
+
+    <li>Bobcats</li>
+    <li>Wildcats</li>
+    <li>Sharks</li>
+ 
+  </ul>
+	</div>
+
+	<div id="right">
+		
+		<p>This area will contain the <b>right content</b> area.</p>
+
+                <img src="caesar.png" title="Julius himself">
+		
+	</div>
+
+	<div id="test">
+        <button> Slide section up </button>
+        <button id="testB"> Slide section down </button>
+        </div>
+
+	
+
+ <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+ <script src="jqueryui/jquery-ui.js"></script>
+ <script>
+          $(document).ready(function() {
+          
+             $("button").click(function() {
+
+		          $("#right").slideToggle();
+                });
+
+             $("#testB").click(function() {
+
+		          $("#right").slideDown();
+                });
+             			// 31. Tooltip widget Options
+             
+             //$("img").tooltip({content: "Hail Caesar!"});
+             //$("img").tooltip({track: true});
+             //$("img").tooltip({show: {effect: "pulsate", duration:800}});
+             //$("img").tooltip({show: {effect: "fadeIn", duration:800}});
+             //$("img").tooltip({show: {effect: "bounce", duration:800}});
+             //$("img").tooltip({show: {effect: "explode", duration:800}});
+             //$("img").tooltip({show: {effect: "highlight", duration:800}});
+             $("img").tooltip({show: {effect: "blind", duration:800}});
+            });
+ 
+ </script> 
+</body>
+</html>

@@ -1,0 +1,10 @@
+var newLi = document.createElement("li");
+newLi
+var newA = document.createElement("a");
+newA
+var menu = document.getElementById("main-nav").getElementsByTagname("ul")[0];
+menu
+menu.appendChild(newLi);
+newLi.appendChild(newA);
+newA.innerHTML = "Blog";
+menu.insertBefore(newLi, menugetElementByTagName("li")[0]);

@@ -1,0 +1,3 @@
+Ctrl + Shift + i = Outils de development
+console
+alert("alerts suck");

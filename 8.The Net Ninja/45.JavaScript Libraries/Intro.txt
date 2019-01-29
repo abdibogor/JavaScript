@@ -1,0 +1,7 @@
+JAVASCRIPT LIBRARIES
+- General purpose
+- Aniamtion
+- Form enhancement
+- Video 
+- Many more...
+

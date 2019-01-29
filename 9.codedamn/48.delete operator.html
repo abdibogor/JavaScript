@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+
+	
+		<script type="text/javascript">
+			  
+			  /*
+		  myVar = 100;
+		  delete myVar;
+		  console.log(myVar); // output undefined
+		  	*/
+
+		  	myVar = 100;
+		  console.log(myVar); // output 100
+
+		  	/*
+		  myVar = 100;
+		  console.log(delete myVar); // delete would return true when:
+		  // you are trying to delete self set property
+		  // you are trying to delete global variable.
+		  //output true 
+		  */
+
+		  	/*
+		  var myVar = 100;
+		  console.log(delete myVar);
+		  console.log(myVar);
+			*/
+
+				/*
+			myArray = ['', '', '', ''];
+
+			if(1 in myArray) {
+		console.log('Yep 1 Is Present for Now');
+		console.log(myArray);
+			}	
+
+			delete myArray[1];
+
+			if(1 in myArray) {
+		console.log('Yep 1 Is Present for Now');
+			} else {
+		console.log('Nope 1 is now deleted');
+		console.log(myArray);
+			}
+			*/
+
+			myArray = {
+				myProp: '100'
+			};
+
+			delete (myArray.myProp);
+
+			console.log(myArray.myProp);
+
+			// output undefined
+
+		</script>
+</body>
+</html> 
+

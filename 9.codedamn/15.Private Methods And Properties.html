@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+	<body>
+
+  
+
+	<script type="text/javascript">
+		function PetrolPump(petrol_liters){
+			// Private vars
+
+			petrol_price_per_liter = 50; // 60 INR = 1$
+			totalPrice = function() {
+				return petrol_price_per_liter*petrol_liters;
+			};
+
+			// Public
+			this.fill = function() {
+				this.price = totalPrice();
+				return 'Your Total Price is: '+this.price;
+			}
+     }
+			
+			var car = new PetrolPump(5);
+			console.log(car.fill());
+			console.log(car.totalPrice()); // error
+
+	</script>
+</body>
+</html> 
+

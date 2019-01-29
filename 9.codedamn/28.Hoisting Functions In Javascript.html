@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+
+
+
+	<script type="text/javascript">
+		/*
+	var b = 10;
+		   function a() {
+		   	b = 20;
+		   	return;
+		   }
+
+		   a();
+		   alert(b);
+		   */
+
+		   	/*
+		   function foo() {
+		   	bar();
+		   	return false;
+
+		   	function bar() {
+		   		alert('Hey! Will I be alerted?');
+		   	  }
+		   }
+			
+			foo();
+			*/
+
+			function foo() {
+		    foo(); // undefined
+		   	bar(); // called up
+		   	return false;
+
+		   	function bar() {
+		   		alert('Hey! Will I be alerted?');
+		   	  }
+		   }
+			
+			function foo(){
+				   function bar() {
+				   	alert('Hey! Will I be alerted?');
+				   }
+
+				   bar();
+				   return false;
+			}
+
+
+	</script>
+
+</body>
+</html> 
+

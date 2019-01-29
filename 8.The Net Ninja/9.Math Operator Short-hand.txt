@@ -1,0 +1,21 @@
+The 5 Most Common Operators
+= assignment
++
+-
+/
+*
+
+var myVar = 10
+myVar = myVar + 5
+myVar
+myVar += 5
+myVar
+myVar -= 10
+myVar
+myVar /= 2
+myVar
+myVar *= 5
+myVar
+myVar += 1
+myVar++
+myVar

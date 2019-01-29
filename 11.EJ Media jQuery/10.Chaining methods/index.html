@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Abdibogoreh</title>
+	<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+    <link type="text/css" rel="stylesheet"  href="styles.css">
+</head>
+<body>
+               
+        <div id="left">
+				<h2></h2>          
+		     
+		        <p>This is FIRST para </p>
+		        <p>This is Second para </p>
+        </div>
+       
+        <div id="center">
+               
+   <ul>
+    <li>Bobcats</li>
+    <li>Wildcats</li>
+ 
+  </ul>
+        </div>
+ 
+        <div id="right">
+               
+       <p>This area will contain the <b>right content</b> area.
+                </p>
+               
+        </div>
+ 
+        <div id="test">
+        <button> Hit button to change something </button>
+        </div> 
+
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>  
+	<script type="text/javascript">
+		          $(document).ready(function() {
+         
+                  $("button").click(function() {
+                   
+            $("#left").css("color", "red").css("border", "solid 2px blue").fadeOut("20000");
+ 
+          /* 
+          $("#left").css("color", "red");
+          $("#left").css("border", "solid 2px blue");
+          $("#left").fadeOut("20000"); 
+ 
+          */    
+ 
+                });
+            });
+	</script>
+
+</body>
+</html>

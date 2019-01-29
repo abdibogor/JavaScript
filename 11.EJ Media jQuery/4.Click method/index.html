@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Abdibogoreh</title>
+	<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+    <link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<body>
+               
+        <div id="left">
+               
+                <p>This section is the left content area. </p>
+        </div>
+       
+        <div id="center">
+               
+                <p>This area will contain the center content area.</p>
+        </div>
+ 
+        <div id="right">
+               
+                <p>This area will contain the right content area.
+                </p>
+               
+        </div>
+ 
+        <div id="test">
+        <button> Hit button to change something </button>
+        </div>
+ 
+      
+ <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>   
+
+	<script>
+		$(document).ready(function() {  
+		        
+          $("button").click(function() {
+
+			$("#right").hide();
+ 
+	});
+            });
+	</script>
+
+</body>
+</html>

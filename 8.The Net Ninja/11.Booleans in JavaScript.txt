@@ -1,0 +1,23 @@
+ctrl + shift + i = outils de development
+console.log
+
+var iLikeMeat = true
+iLikeMeat
+ILikeMeat = "true"
+iLikeMeat = false
+7 > 5
+7 < 5
+7 = 7
+var num = 7
+7 == 7
+7 == 5
+0
+Boolean(7 > 5)
+true
+Boolean(6)
+true
+Boolean(-5)
+false
+Boolean(0)
+Boolean("Hello")
+Boolean("")

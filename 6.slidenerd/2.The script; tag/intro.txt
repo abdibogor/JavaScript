@@ -1,0 +1,39 @@
+The <script> Element
+. <script> elements is the primary method of inserting JavaScript into an HTML.
+. It has 6 attributes...
+
+Async Attribute
+1. async
+.it is optional
+. Valid only for external script files.
+. Indicates that the script should begin downloading immediately but should not prevent other actions on the page such as downloading resources or waiting for other scripts to load.
+
+Charset Attribute
+
+2.  Charset
+. It is optional
+. The character set of the code specified using the src attribute.
+. Common values "ISO-8859-1","UTF-8"
+. The charset attribute is used when the character encoding in an external script file differs from the encoding in the HTML document.
+
+
+3.Defer
+. It is Optional
+. Indicates that the execution of the script can safely be deferred until after the document's content has been completely parsed and displayed.
+. Valid only for external scripts.
+
+
+Language and src Attributes
+4. language: Deprecated
+5. src
+6. it is optional
+Indicates an external file that contains code to be executed.
+
+type Attribute
+6.type
+. It is optionalE
+. Replaces language; indicates the content type (MIME type) of the scripting language being used by the code block.
+. See to "text/javascript" by convention and form maximum browser compatibility
+
+7. This attribute is safe to omit, as "text/javascript" is assumed when missing
+

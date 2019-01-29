@@ -1,0 +1,18 @@
+var myArray = [];
+myArray[0] = 25
+myArray[0]
+myArray[1] = 35
+myArray[2] = true
+myArray[3] = "hello"
+myArray
+console.log(myArray);
+myArray[2] = false;
+myArray
+var myArray2 = [10,20,"hi",false];
+myArray2
+var myArray3 = new.array()
+var myArray4 = new Arrays(5)
+myArray2.length
+myArray2.sort()
+myArray2.reverse()
+

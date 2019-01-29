@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+</head>
+<body>
+    
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+    <a href="#">Link 4</a>
+    <a href="#">Link 5</a>
+    <a href="#">Link 6</a>
+
+    <script language="javascript" type="text/javascript">      
+        
+        /*
+        Break, as the name suggests, breaks out of a loop at any given point,  and Continue just tells the loop to 'skip' this particular iteration and carries on with the next one.
+        */
+
+       for (i = 0; i < 10; i++) {
+           if (i === 5 || i === 3)
+           {
+               continue;
+           }
+
+           console.log(i);
+           if(i === 7)
+           {
+               break;
+           }
+       }
+
+       console.log("I have broken out of the loop");
+
+    </script>
+    
+</body>
+</html> 
+

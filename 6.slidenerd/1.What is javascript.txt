@@ -1,0 +1,55 @@
+Parts of Javascript
+ECMAScript
+DOM
+BOM
+
+What is ECMA Script
+.ECMAScript defines the following parts of the language:
+  . Syntax
+  . Reserved Words
+  . Types
+  . Operators
+  . Statements
+  . Objects
+  . Keywords
+
+. A browser developer must comform to ECMA specifications
+
+
+What is DOM?
+<html>
+<head>
+<title>Abdibogoreh</title>
+</head>
+<body>
+	<p>Hello World</p>
+</body>
+</html>
+
+it maps out an entire page as a hierarchy of nodes.
+Each part of an html or XML page is a type of a node containing different kinds of data.
+Nodes can be removed, added, replaced, and modified easily by using the DOM API.
+Developpers can alter the appearance and content of a web page without reloading it.
+
+What can you do with DOM?
+
+.Map out the structure of a html document in the form of nodes.
+.Manipulates css, handle events and other stuff
+.Other DOMs
+  .Scalable Vector Graphics(SVG)
+  .Mathematical Markup Language(MathML)
+  .Synchronized MUltimedia integration Language(SMIL)
+  .Mozilla XML User Interface Language(XUL)
+
+The Browser Object Model
+
+. Browser Object Model (BOM) allows access and manipulation of the browser window.
+. The capitability to pop up new browser windows
+. The capability to move, resize, and, close browser windows
+
+The Browse Object Model
+.The navigator object, which provides detailled information about the answer
+.The location object, which gives detailled information about the page loaded in the browser
+.The screen object, which gives detailled information about the user's screen resolution.
+.Custom objects such as XMLHttpRequest and Internet Explorer's ActiveXObject
+

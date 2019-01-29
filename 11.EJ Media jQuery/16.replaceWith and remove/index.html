@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Abdibogoreh</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+  
+<body>
+
+	<div id="left">
+<h2>This is a heading</h2>
+		
+        <p class="para2">This is FIRST para </p>
+        <p>This is Second para </p>
+	</div>
+	
+	<div id="center">
+		
+		<ul>
+    <li>Bobcats</li>
+    <li>Wildcats</li>
+ 
+  </ul>
+	</div>
+
+	<div id="right">
+		
+		<p>This area will contain the <b>right content</b> area.
+		</p>
+		
+	</div>
+
+	<div id="test">
+        <button> Hit button to change something </button>
+        </div>
+
+ <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+ <script>
+          $(document).ready(function() {
+          
+		  $("button").click(function() {
+		   
+                  $("div").remove();
+  
+// $("p").replaceWith("<p>new paragraphs everywhere</p>"); 
+// $("#right p").replaceWith("<p>you just clicked a button</p>"); 
+//$("#right").remove();
+
+                });
+            });
+ 
+ 
+ </script> 
+</body>
+</html>

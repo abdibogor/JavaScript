@@ -1,0 +1,12 @@
+console
+
+var myBody = document.getElementsByTagname("body");
+myBody
+myBody[0].innerHTML;
+
+clear();
+
+var myTitle = document.getElementById("page-title");
+myTitle
+myTitle.textContent;
+myTitle.textContent = "yo Ninjas get ready to learn";

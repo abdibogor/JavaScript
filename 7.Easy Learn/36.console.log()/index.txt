@@ -1,0 +1,4 @@
+Logging information in JavaScript is very handy. 
+It allows you to send data directly to the browser's console, so that you can trace the execution path of your script, test data in your application, as well as just simply record events as your web app runs. 
+The console object has a function log, which takes at least one argument, which can be anything: string, number, arrays, objects, null, or even undefined. 
+Google Chrome developer tools allows you to inspect data logged to the console, including object expansion and property lookup.

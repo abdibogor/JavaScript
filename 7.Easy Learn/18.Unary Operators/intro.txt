@@ -1,0 +1,1 @@
+A unary operator in JavaScript is one where there is only a single input into the mathematical operation. For example, X++, where the variable 'x' is the operand, and '+' is the operator. In this case, the operation is performed on the variable 'x'.

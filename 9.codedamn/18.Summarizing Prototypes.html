@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+
+  
+
+	<script type="text/javascript">
+		/*
+		function baseClass() {
+			this.x = 100;
+			this.y = 200;
+			this.z = function() {
+				 return this.x*this.y;
+			}
+		}
+
+		baseClass.prototype.myMethod = function() {
+			return 3;
+		}
+
+		function baseClass2() {
+			this.a = 300;
+			this.b = 400;
+		}
+
+		baseClass.prototype = new baseClass2();
+		var obj = new baseClass();
+		console.log(obj.z); // 2000
+		*/
+
+		String.prototype.revMe = function() {
+			var len = this.length; // 10 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+			var userString = "";
+			var customString = "";
+
+			for(i=0;i<len;i++) {
+				userString += this[i];
+			}
+
+			while(len--) { //  9
+				customString += userString[len];
+			}
+			 return customString;
+		}
+
+		var b = "I love to code javascript. I love prototype!";
+		console.log(b.revMe()); // !sep
+	</script>
+
+
+</body>
+</html> 
+

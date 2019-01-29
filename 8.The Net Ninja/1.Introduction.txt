@@ -1,0 +1,15 @@
+What You Should Know
+- HTML
+- CSS
+
+What We'll Learn
+
+- What Javascript is & When we use it
+- Basics Javascript syntax
+- Working with data types (integers, strings etc)
+- Control flow (loops and conditional statements)
+- The Document Object Model (DOM)
+- Examples of JavaScript on web pages
+
+Download 
+brackets.io

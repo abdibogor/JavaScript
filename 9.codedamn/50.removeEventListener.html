@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+	
+<style>
+	div {
+		 background: green;
+		 width: 200px;
+		 height: 200px;
+	}
+</style>
+
+		<!-- 
+			<div></div>
+			<button id="deregister">Deregister Click Event</button>
+		-->
+
+		<div></div>
+		<button>Deregister Click Event</button>
+
+		<script type="text/javascript">
+
+	var div = document.querySelector('div');
+	div.addEventListener('click', function() {
+				alert();
+			}, false);
+
+			div.removeEventListener('click');
+
+			/*
+		var div = document.querySelector('div');
+		div.addEventListener('click', divClicked, false);
+		div.addEventListener('click', divClicked2, false);		      
+
+		function divClicked() {
+			alert('div was clicked');
+		}
+
+		function divClicked2() {
+			alert('I won\'t be deregistered');
+		}
+
+		var button = document.querySelector('button');
+		button.addEventListener('click', deRegister, false);
+
+		function deRegister() {
+			div.removeEventListener('click', divClicked);
+		}
+		*/
+
+		</script>
+
+</body>
+</html> 
+

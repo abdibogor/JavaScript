@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+
+	<!--<form onsubmit="validateThis()" action="">-->
+
+		<form onsubmit="return validateThis()">
+
+		<input type="text" id="name" placeholder="Name"><br>
+		<input type="text" id="email" placeholder="Email"><br>
+		<input type="text" id="address" placeholder="Address"><br>
+		<input type="text" id="phone" placeholder="phone"><br>
+		<input type="submit" value="Go">
+	</form>
+
+	
+		<script language="javascript" type="text/javascript">
+			  
+			function validateThis() {
+
+				var name = document.getElementById('name').value;
+				var email = document.getElementById('email').value;
+				var address = document.getElementById('address').value;
+				var phone = document.getElementById('phone').value;
+
+				var nameRegex = /^[a-z]+[ ]?[a-z]$/i; //
+				var emailRegex = /^[a-z0-9]+@[a-z0-9]+\.[a-z]+$/i;
+				var addressRegex = /[a-z\d\s\,\.\-]+$/;
+				var phoneRegex = /^\d{10}$/;
+
+				console.log(nameRegex.test(name));
+				console.log(emailRegex.test(email));
+				console.log(addressRegex.test(address));
+				console.log(phoneRegex.test(phone));
+
+				return false;
+			}
+			
+		</script>
+</body>
+</html> 
+

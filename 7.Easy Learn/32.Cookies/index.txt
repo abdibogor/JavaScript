@@ -1,0 +1,10 @@
+What is a JavaScript cookie? In frontend web development, a cookie is a collection of data that the web browser saves on the user's machine. 
+This data can be used by the JavaScript application, which it can access very fast, since it doesn't need to make a request for the data on the backend server. 
+Cookies are normally used as a cache layer, as well as a way to uniquely identify a user of an application.
+
+
+key points: 
+   - Every cookie has 3 important properties: key, value, time to live
+key
+value 
+time

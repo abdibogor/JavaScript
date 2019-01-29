@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+	<body>
+
+  
+
+	<script type="text/javascript">
+			
+			function AreaofSquare(x) {
+				this.side = x;
+				this.area = function() {
+					return this.side*this.side;
+				}
+				this.perimeter = function() {
+					return 1;
+				};
+			}
+
+			function PerimeterOfSquar(x) {
+				this.side = x;
+				this.perimeter = function() {
+					return 4*this.side;
+				};
+			}
+
+			AreaofSquare.prototype = new PermiterOfSquare(10);
+
+			var square = new AreaofSquare(10); // [[Prototype]]
+
+			square.perimeter = function() {
+				return 2;
+			}
+
+			//console.log(square.area());
+			//console.log(square.toString());
+			//console.log(square.abc());
+			console.log(square.perimeter());
+	</script>
+</body>
+</html> 
+

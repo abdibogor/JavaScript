@@ -1,0 +1,12 @@
+ctrl + shift +i outils de development (google chrome)
+console
+var myVar = "hello";
+myVar
+myVar2 = "hello again";
+myVar2
+
+
+Variables area a way of storing information (such as the pixel position of an element on a page, or the customer name, or email) and can be of any of the main JavaScript types (integers, strings, boolean values etc - we'll cover these later).
+
+
+We need to use variables in our JS programs, so that we can refer to different pieces of varying information for different parts of our scripts to run! For example, an image slider needs to store how many images are in the slider.

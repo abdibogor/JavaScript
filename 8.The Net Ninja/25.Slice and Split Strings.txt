@@ -1,0 +1,10 @@
+var str = "hello, world";
+str
+var str2 = str.slice(2,9);
+str2
+var str3 = str.slice(2);
+str3
+var tags = "meat, ham, salami, prok, beef, chicken"
+tags
+va tagsArray = tags.split(",");
+tagsArray

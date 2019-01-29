@@ -1,0 +1,14 @@
+body {
+background-color: #9c9f84;
+margin: 20px;
+font-family: Verdana, Georgia, serif;
+font-size: 15px;
+}
+
+#main {
+background-color: #e5e4d7;
+}
+
+button {
+	margin-top: 10px;
+}

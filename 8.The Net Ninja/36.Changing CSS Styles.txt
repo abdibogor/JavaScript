@@ -1,0 +1,9 @@
+var title = document.getElementById("page-title");
+title.setAttribute("style", "position: relative;");
+title.setAttribute("style", "position: relative; left: 10px;");
+title.style.left = "20px";
+title.style.top = "10px";
+title.style.color = "red";
+title.style.background-color ="blue"
+//output uncaught ReferenceError : Invalid left-hand side in assignement
+title.style.backgroundColor = "blue";

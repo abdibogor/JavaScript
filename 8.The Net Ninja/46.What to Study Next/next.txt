@@ -1,0 +1,20 @@
+JAVASCRIPT LIBRARIES
+-jQuery
+-MooTools
+-Modernizr
+
+	AJAX AND JSON
+- AJAX IS Essential a Part of JAVASCRIPT 
+- Allows JavaScript to communicate with the server without having to leave the web page
+- Great example is when you zoom in on Google Maps
+- Json is just a way of organizing data & works well with Ajax
+
+
+EXPLORING JAVASCRIT FURTHER
+
+- Lots in Javascript that we haven't covered:
+
+- Regular expressiosn & advanced validation
+- OOP(object orientated programming)
+- Sliders, drag and drop, animated menu's
+

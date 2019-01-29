@@ -1,0 +1,11 @@
+How do you read JavaScript cookies? The way to get the value of an existing cookie in JavaScript is really easy. 
+Simply read the cookie property of the global document object. 
+Since all cookie key-value pairs are contained in the same string, you will need to parse the string manually in order to get a specific cookie value.
+
+key points:
+  
+ - all cookie values are strings
+   
+- string needs to be parsed by hand, or you can use existing JS libraries
+   
+- string.split is handy for this (more on String functions later)

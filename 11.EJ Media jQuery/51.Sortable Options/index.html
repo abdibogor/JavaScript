@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Abdibogoreh</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <link type="text/css" rel="stylesheet" href="jqueryui/jquery-ui.css">
+    <link type="text/css" rel="stylesheet" href="jqueryui/jquery-ui.structure.css">
+    <link type="text/css" rel="stylesheet" href="jqueryui/jquery-ui.theme.css">
+    <link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+  
+<body>
+        <div id="container">
+
+              <div class="header">
+      
+              </div>
+           
+              <div id="nav"> 
+          
+              </div>          
+        
+              <div class="sidebar">
+      
+              </div>
+
+              <div class="main">
+              <div class="draggable">
+                <img src="caesar.png">
+
+                <img src="caesar2.png">
+
+                <img src="caesar3.png">
+              </div>
+              </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="jqueryui/jquery-ui.js"></script>
+    <script>
+          $(document).ready(function() {
+          //$(".draggable").sortable({opacity: 0.5}); 	
+          //$(".draggable").sortable({distance: 150}); 
+          //$(".draggable").sortable({delay: 350}); 
+          //$(".draggable").sortable({disabled: true}); 
+          //$(".draggable").sortable({cursor: "move"}); 
+          //$(".draggable").sortable({containment: "parent"});
+          //$(".draggable").sortable({axis: "x"}); 
+          $(".draggable").sortable({grid: [ 20, 10 ]});  
+            });
+
+     </script> 
+     
+</body>
+</html>

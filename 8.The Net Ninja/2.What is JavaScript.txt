@@ -1,0 +1,35 @@
+One of Three Core Languages
+
+HTML - Controls the structure of your web page
+CSS - Controls the presentation/design
+JavaScript - Adds behavior and interactivity
+
+JavaScript is Scripting Language
+
+- Intentional limited
+- Doesn't have the same features as other
+- Programming languages (C++, Java)
+- Cannot communicate directly with a database , or file system on a computer
+- However it is great at manipulating web pages.
+
+JavaScript is a client Side Language
+Client / Browser 
+HTML
+CSS
+JavaScript
+
+Server
+Ruby on Rails
+PHP
+ASP.NET
+
+
+Do Not Rely(compte) on JavaScript
+JavaScript should ENHANCE your audience's experience only.
+Do not rely on JavaScript to add core functionality to your website.
+
+
+And Finally...
+- JavaScript is NOT, and has NOTHING to do with JAVA
+- Javascript is just a name that was given to it while JAVA was really popular
+- The official name for JavaScript is ECMAScript

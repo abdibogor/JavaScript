@@ -1,0 +1,5 @@
+There are two way to use the <script> element:
+A. Put JavaScript Code directly into the page within <script> tags
+B. Include Javascript from an external file.
+
+ 

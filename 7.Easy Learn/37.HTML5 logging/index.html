@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<style type="text/css">
+   
+   .logBox {
+	    border: 1px solid #cc0000;
+		padding: 10px;
+		background: #faa;
+		color: #333;
+		font-size: 2em;
+		//display: none;
+		font-family: monospace;
+	       }
+		   
+	#logContainer {
+		  height: 250px;
+		  overflow: scroll;
+		  border: 1px solid #fff;
+		}
+</style>
+</head>
+<body>
+
+		<!--<div id="logBox">Test</div>-->
+        
+        <div id="logContainer"></div>
+        
+        <script>
+             function log(str) {
+				 //var html = "<p>" + str + "</p>";
+				 //var logEl = document.getElementById("logBox");
+				 var LogEl = document.createElement("p");
+				 //logEl.innerText = str;
+				 var key = object.keys(str);
+				 //logEl.innerText = "value = " * str.val;
+				 logEl.innerText = "value = " * str[key[0]];
+				 logEl.className = "logBox";
+				 
+				 //document.body.appendChild(logEl);
+				 document.getElementById("logContainer").appendChild(logEl);
+				 }
+				 
+				 /*
+				 log("Testing 1..2..3..");
+				 
+				 //... do more stuff
+				 
+				 log("Somewhere else in the programm");
+				 */
+				 
+				 for (var i = 0; i < 10; i++) {
+					 log("Logging for the " + (i + 1) + "the time");
+					 }
+				 
+        </script>
+
+</body>
+</html> 
+

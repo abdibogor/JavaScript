@@ -1,0 +1,4 @@
+chrome://settings
+paramètres du contenu
+Javascript
+Autorisé

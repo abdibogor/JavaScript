@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+
+		<script language="javascript" type="text/javascript">
+			/*
+			function helloWorld() {
+				for (i = a; i < 11; i++){
+					document.write('Hello World');
+				}
+			}
+			*/
+			/*
+			// Recursive Approach
+
+			var i = 10;
+
+			function helloWorld() {
+				document.write('Hello World<br>');
+				while(i-- > 1) {
+					helloWorld();
+				}
+			}
+
+			helloWorld();
+			*/
+
+				/*
+		  function fact (number) {
+		  	if(number < 0) {
+		  		return 'Invalid Number';
+		  	}
+		  	else if(number == 0) {
+		  		return 1;
+		  	}
+
+		  	var products = number;
+		  	while(number-- > 2) {
+		  		products = products * number;
+		  	} 
+		  	 return products;
+		  }
+		  //var result = fact(2);
+		  var result = fact(100);
+
+		  console.log(result);
+		  */
+
+		  function fact(number) {
+		  	if (number < 0) {
+		  		return 'Invalid';
+		  	}
+		  	 else if (number == 0) {
+		  	 	return 1;
+		  	 }
+		  	 else {
+		  	 	return (number * fact(number -1));
+		  	 }
+		  }
+
+		var result = fact(100);
+
+		console.log(result);
+
+		</script>
+
+</body>
+</html> 
+

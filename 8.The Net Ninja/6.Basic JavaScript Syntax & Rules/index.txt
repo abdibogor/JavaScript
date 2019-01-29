@@ -1,0 +1,7 @@
+Summary
+- Javascript is case sensitive
+- Contains many statements, all ending with a semicolon;
+- Not sensitive(ma aha mid xasaasi ah) to whitespace or line breaks
+- write one-line comments using //
+- write multi line comments using /**/
+- JavasCripts runs from top to bottom

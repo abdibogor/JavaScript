@@ -1,0 +1,3 @@
+The main difference between console.warn and console.error is the way they appear in the console. 
+Note that console.error is not the same thing as an error that gets thrown. 
+Execution of your JavaScript will not break because of an error being logged.

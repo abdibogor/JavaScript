@@ -1,0 +1,6 @@
+. To include JavaScript from an external file, the src attribute is required.
+. The value of src is a URL linked to a file containing JavaSCript code, like this:
+
+<script type="text/javascript" src=""></script>
+. In the example, an external file named example is loaded
+. The file itself only contains JS code that would occur between the opening <script> and closing </script> tags.

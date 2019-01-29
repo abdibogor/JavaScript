@@ -18,7 +18,7 @@
 
 9. codedamn: **[https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR](https://www.youtube.com/playlist?list=PLYxzS__5yYQlwfMje_MxQPb18tXtCJbfR)**
 
-10. EJ Media JavaScript: [https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
+10. EJ Media: [https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl](https://www.youtube.com/playlist?list=PLr6-GrHUlVf96NLj3PQq-tmEB6woZjwEl)
 
 11. EJ Media JQuery: [https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1)
 

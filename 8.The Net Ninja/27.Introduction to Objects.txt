@@ -1,0 +1,16 @@
+OBJECTS?
+JavaScript uses objects!
+Strings, numbers, arrays, plus many more...
+
+Plus d'outils = outils de development = console
+var myCar = new Car()
+//myCar.break()
+myCar.topSpeed
+myCar.drive()
+var myString = new String()
+myString = "hello";
+myString.length
+myString.toLowerCase()
+var myString2 = "hi there";
+myString.toUppercase;
+

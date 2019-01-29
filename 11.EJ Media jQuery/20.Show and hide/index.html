@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Abdibogoreh</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+  
+<body>
+
+	<div id="left">
+<h2>This is a heading</h2>
+		
+        <p class="para2">This is FIRST para </p>
+        <p>This is Second para </p>
+	</div>
+	
+	<div id="center">
+		
+		<ul>
+    <li>Bobcats</li>
+    <li>Wildcats</li>
+ 
+  </ul>
+	</div>
+
+	<div id="right">
+		
+		<p>Hover over this area to show Julius.</p>
+
+                <img src="caesar.jpg">
+		
+	</div>
+
+	<div id="test">
+        <button> Hit button to change something </button>
+        </div>
+
+ <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+ <script>
+          $(document).ready(function() {
+          
+		  $("#right").hover(function() {
+		   
+          $("img").show();}, //hover over
+          
+		  function() {
+		   
+          $("img").hide(); //not hovered
+ 
+                });
+            });
+ 
+ 
+ </script> 
+</body>
+</html>

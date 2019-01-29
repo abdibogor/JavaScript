@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+	
+		<script language="javascript" type="text/javascript">
+			
+			var input = prompt('Enter your Email Address: ');
+
+			//var regex = /\S+@\S+\.\S+/;
+
+			// RegExp.prototype.test() => test method
+			// String.prototype.match() => match method
+
+			//var result = input.match(regex);
+
+			var regex = /[a-z0-9]+@[a-z0-9]+\.[a-z]+/i; // RegExp literal
+
+			var result = regex.test(input);
+
+			/*
+			if(result === null) {
+				// not a valid email.
+			}
+			else 
+			{
+				// valid email
+			}
+			*/
+
+			if(result === true) {
+				// not a valid email.
+			}
+			else 
+			{
+				// valid email
+			}
+
+			console.log(result);
+
+			// abc@gmail.com - Valid mail
+			// String before '@'
+			// An '@' sign
+			// domain name which is again, a string. [only alphanumeric]
+			// .
+			// top level domain which is again a string. [only alphanumeric]
+
+			
+		</script>
+</body>
+</html> 
+

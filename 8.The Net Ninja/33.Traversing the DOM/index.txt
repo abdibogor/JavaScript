@@ -1,0 +1,11 @@
+google chrome
+plus d'outils
+outils de development
+console
+document.getElementsByClassName("content");
+var myContentDivs = document.getElementsByClassName("content");
+myContentDivs
+var myH = myContentDivs[1].getElementsByTagname("h2");
+myH2
+myH2[0].inneHTML = "Yo NINJAS";
+document.getElementByID("page-title");

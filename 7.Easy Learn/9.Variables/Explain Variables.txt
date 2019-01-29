@@ -1,0 +1,1 @@
+JavaScript variables are named entities that reference values in your code. You can have the following data types natively in Javascript: Strings, Numbers, Booleans, Undefined, and Null. Once you have a variable declared, you can assign it a value by using mathematical notation, such as x = 23;

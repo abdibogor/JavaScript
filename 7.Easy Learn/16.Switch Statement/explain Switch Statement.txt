@@ -1,0 +1,1 @@
+JavaScript programming allows you to, Instead of checking multiple related conditionals using an if statement, use a switch case block. This allows you do jump execution right into a particular value. This is better than nested ifs because no checks are make. Instead, the cases are hashed, and the input value is used to key into the possible logic blocks.

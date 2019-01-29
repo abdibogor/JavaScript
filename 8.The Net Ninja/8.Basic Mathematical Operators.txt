@@ -1,0 +1,29 @@
+The 5 Most Common Operators
+= assignment
++
+-
+/
+*
+
+open google chrome
+ctrl + shift + i = outils de development
+console
+var myVar = 5
+myVar
+5 + 5
+myVar = 10
+myVar = myVar + 10
+myVar
+10 - 5
+myVar - 3
+myVar = myVar - 5
+myVar
+10 * 10
+20 / 10
+myVar = myVar / 2
+myVar 
+5 + 5
+5 + "hello"
+100 + "hello"
+"hello" + "david"
+"hello" + "david"

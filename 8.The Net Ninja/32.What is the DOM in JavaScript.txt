@@ -1,0 +1,34 @@
+	DOCUMENT OBJECT MODEL
+- The DOM Is an 'application programming interface'
+- Use the DOM when we interact with web pages
+
+- Add content to a HTML document
+- Delete content from a HTML document
+- Changer Content on a HTML document
+
+DOCUMENT
+- The document is just the web page
+
+	Objects Are Elements
+
+Every HTML element in the document is an object:
+
+- <head></head> is an object
+- <body></body> is an object
+- <ul></ul> is an object
+- <p></p> is an object
+
+
+NODES 
+- Everything we can change in the document is a node:
+- Elements
+- Text within elements
+- HTML attributes
+
+What Can We Do with The DOM?
+- change the <h1> text node at the top of the page
+- change the background colour of an element node
+- Animate the logo node from left to right
+- Expand(développer) the height of an element node when you click on it. 
+- PLUS MUCH MORE...
+

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+
+  <div id="myClock">
+  	<span id="hour"></span>:<span id="minute"></span><span id="seconds">:</span>
+  </div>
+
+	<script type="text/javascript">
+		  /*
+		setTimeout(function() {
+			alert();
+		}, 1000); // 1000 milliseconds = 1 second
+	*/
+
+		/*
+	var i = 0;
+		
+	setInterval(function() {
+		    i++;
+			alert();
+			if(i==5) { clearInterval(x); }
+		}, 1000); // 1000 milliseconds = 1 second
+		
+		document.write('Hello World!');
+		*/
+
+		/*
+		function clock() {
+			var date = new Date();
+			console.log(date);
+		}
+
+		clock();
+		*/
+
+		function clock() {
+			var date = new Date();
+			
+			var hours = date.getHours();
+			var minutes = date.getMinutes();
+			var seconds = date.getSeconds();
+
+document.getElementById('hour').innerText = hours;
+document.getElementById('minute').innerText = minutes;
+document.getElementById('seconds').innerText = seconds;
+		}
+
+		clock();
+
+		setInterval(clock, 1000);
+
+	</script>
+
+
+</body>
+</html> 
+

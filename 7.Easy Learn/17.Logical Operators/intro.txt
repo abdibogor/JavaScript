@@ -1,0 +1,1 @@
+he operators used to program logic are the equals operators, which is used to check if values are the same, as well as the logical AND, OR, NOT

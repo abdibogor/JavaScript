@@ -1,0 +1,10 @@
+ctrl+shift+i = outils de dévelopment
+console
+
+var Person= function(name) { this.name = name;}
+ouput undefined
+
+var number = 3;
+number
+var today = new Date()
+today

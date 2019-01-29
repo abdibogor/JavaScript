@@ -1,0 +1,25 @@
+plus d'outils
+outils de development
+console log
+document.forms.myForm;
+var myForm = document.forms.myForm;
+myForm
+myForm.name
+myForm.name.value
+myForm.name.value
+myForm.colour.value
+myForm.name.onfocus = functio(){
+   myForm.name.style.border = "4px solid pink";
+}
+function(){
+   myForm.name.style.border = "4px solid pink";
+}
+myForm.name.onblur = function(){
+     myForm.name.style.border = "4px solid pink";
+};
+function(){
+	myForm.name.style.border = "name";
+};
+
+
+

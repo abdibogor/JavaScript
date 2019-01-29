@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+	<body>
+
+	<div id="helloWorld">Hello World</div>
+
+	<script type="text/javascript">
+			/*
+		var myDiv = document.getElementById('helloWorld').innerText;
+		var myDiv2 = document.querySelector('div').innerText;
+		var myDiv3 = document.querySelectorAll('div')[0].innerText;
+		var myDiv4 = document.getElementsByTagName('div')[0].innerText;
+
+		console.log(myDiv+' '+myDiv2+' '+ myDiv3+' '+myDiv4);
+		*/
+
+			/*
+		function yourFunction() {
+				document.write('123');
+		}
+
+		yourFunction();
+		*/
+
+			/*
+		var abc = 100; // global [window]
+
+		function yourFunction() {
+			var def = 200; // local to function
+			document.write(abc+def);
+		}
+
+		yourFunction();
+		alert(abc); // 100
+		alert(def); // undefined
+		*/
+
+			/*
+		function descending(a, b) {
+			return b-a;
+		}
+
+		var myArray = [1,2,3,4,5];
+		console.log(myArray.sort(descending));
+		*/
+
+			/*
+		var object = {
+				property: value,
+				method: function() {
+					return x;
+				}
+		};
+		*/
+
+		var object = {
+			x : 100,
+			y : 200,
+			z : function() {
+				return this.x*this.y;
+			}
+		};
+
+		function myObject() {
+			this.x = 100;
+			this.y = 200;
+			this.z = function() {
+				return this.x*this.y;
+			}
+		}
+		//console.log(object.x);
+
+		var obj = new myObject();
+
+		console.log(object.y);
+
+	</script>
+</body>
+</html> 
+

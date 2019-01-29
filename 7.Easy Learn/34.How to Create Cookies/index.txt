@@ -1,0 +1,25 @@
+part of console
+var cookie = document.cookie
+cookie
+cookie.m&d
+document.cookie = "keys";
+document.cookie
+document.cookie = "name=Silveria";
+document.cookie;
+document.cookie = "name=Rodrigo Silveria;expires"
+var new = new Date();
+date
+date.setDate(date.getDate() + 5)
+date
+document.cookie = "name=Rodrigo Silveira;expires=' + date.toUTCMilliSeconds()
+
+
+
+
+How do you set and update JavaScript cookies? The way to create a new cookie in JavaScript is really easy. Simply assign a string to the cookie property of the document object (document.cookie), formated in a key=value fashion.
+
+points:
+- cookies are associated with the document object (more on it later)
+- cookies are shared across the entire application (domain)
+   
+- if you use a name for a cookie that's already in use, the previous value will be overridden

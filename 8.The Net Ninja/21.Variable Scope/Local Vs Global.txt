@@ -1,0 +1,5 @@
+var foo = 20; - Global variable
+
+function myFunction() {
+    var bar = 10, - Local variable
+}

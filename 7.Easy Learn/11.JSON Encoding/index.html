@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+</head>
+<body>
+		
+		<script type="text/javascript">
+		/*	
+		// variables
+		var names = "Abdoulrazak";
+		var age = 24;
+		var isRich = false;
+		var car = null;
+
+		car colors = ["red",
+					  "green",
+					  "blue"
+					 ];
+					 */
+
+// Objects - JSON, hash, hash map, associative array
+//JSON = JavaScript Object Notation
+
+var data = "{name: 'Rodrigo'}";
+//alert(typeof data); //output string
+alert(data.name); //output undefined
+
+// key/value pairs
+// attribute
+// element
+// field
+/*
+	var person = {
+        0 : "Rodrigo Silveira",
+        1 : 42,
+        2 : false
+	};
+*/
+	//alert(typeof person);// output object
+	//alert(person[0]); output Rodrigo Silveira
+	alert(person[1]); //output 42
+
+
+var person = {
+        "name" : "Rodrigo Silveira",
+        "age" : 42,
+        "isRich" : false
+	};
+	 //alert(person[1]); //output undefined
+     //alert(person["age"]);
+     //alert(person.address); //output undefined
+     /*
+     var someKey = "name";
+     alert(person[someKey]); //output Rodrigo Silveira
+     */
+     //alert(person.country); //output undefined
+     //alert(person.name = "Rigo"); //output Rigo
+     /*
+     person.name ="Rigo";
+     alert(person.country); //output undefined
+     */
+
+     person.country = "USA";
+     alert(person.country);
+
+		</script>
+
+</body>
+</html> 
+

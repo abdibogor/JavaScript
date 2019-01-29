@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+	<body>
+
+  
+
+	<script type="text/javascript">
+		   /*
+		function myFunction() {
+			this.x = 100;
+			this.y = function() {
+				this.x*this.x;
+			}
+		}
+
+		myFunction.prototype.abc = 200; // 200
+
+		var obj = new myFunction();
+		obj.abc = 100;
+
+		console.log(obj.abc); // 100
+		*/
+
+		function myFunction() {
+			// var def
+		this.x = 100;
+		this.y = function() {
+			this.x*this.x;
+		}
+	}
+
+	myFunction.prototype.abc = 200;
+
+	myFunction.def = 300;
+
+	myFunction.def = function() {
+		 
+	};
+
+	var obj = new myFunction();
+
+	console.log(obj.abc); // 200
+	console.log(myFunction.def); // undefined
+
+	var obj2 = new myFunction();
+	console.log(obj2.def);
+
+	</script>
+</body>
+</html> 
+

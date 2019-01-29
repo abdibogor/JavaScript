@@ -1,0 +1,61 @@
+var cookie = document.cookie;
+cookie
+cookie.length
+var num = 23
+num.toFixed(2)
+num = 23.1245
+num.toFixed(2)
+
+clear();
+
+var cookie = document.cookie;
+cookie
+cookie.split(";")
+var cookieArr
+for (var i = 0; i < cookieArr.length; i++) {
+     // do Step 3
+}
+
+var cookieObj = {}
+cookieObj
+
+for (var i = 0; i < cookieArr.length; i++) {
+     // do Step 3
+     var cookieKV = cookieArr[i];
+	cookieKV = cookieKV.trim();
+
+	// split on "="
+	var cookieKVArr = cookieKV.split("=");
+/*	
+cookieKVArr = ["key", "value"]
+	cookieKVArr[1];
+*/
+
+	// store kv on obj
+cookieObj[cookieKVArr[0]] = 
+
+}
+
+cookieObj.name
+cookieObj["age"]
+cookieObj["_HOP"]
+cookieObj["MUID"]
+if {cookiObj["age"] === "undefined"] {
+	
+}
+
+var obj = { 
+   	"name": "Rodrigo Silveira"
+}
+
+obj.name
+cookieObj.name
+cookieObj.name = "Rodrigo Formigane"
+cookieobj.name
+document.cookie = "name=Rodrigo Formigane Silveira"
+clear();
+
+function parseCookie(){
+	var obj = {};
+
+   }

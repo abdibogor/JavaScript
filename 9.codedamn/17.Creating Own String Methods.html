@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Abdibogoreh</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+<body>
+
+  
+
+	<script type="text/javascript">
+		  
+	String.prototype.revMe = function() {
+			var len = this.length; // 10 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+			var userString = "";
+			var customString = "";
+
+			for(i=0;i<len;i++) {
+				userString += this[i];
+			}
+
+			while(len--) { //  9
+				customString += userString[len];
+			}
+			 return customString;
+		};
+
+
+		var b = "I love to code javascript. I love prototype!";
+		//var b = "I love to program. I can program anytime.";
+		//var = "aaa sdfsd sdfdf";
+		//b.split("").reverse().join("");
+		//b.revMe();
+
+		console.log(b.revMe() == b.split("").reverse().join(""));
+		console.log(b);
+
+	</script>
+</body>
+</html> 
+

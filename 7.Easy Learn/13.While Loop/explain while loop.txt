@@ -1,0 +1,1 @@
+WHILE loop in JavaScript is useful when you know do not know how many times to run the loop. You must provide your own increment instruction, or somehow provide a way for the loop to finish. Otherwise you'll have an infinite loop.

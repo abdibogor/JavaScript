@@ -1,0 +1,15 @@
+prerequisites for Web Development Series
+- HTML Tutorial for Beginners
+- CSS Tutorial for Beginners
+
+JavaScript Introduction
+
+. HTML - Adds structure to our web pages - layout, sections and, paragraphs
+. CSS - Ads style to our web pages - color, borders, etc.
+. JavaScript - Adds programming to our web pages. Works with HTML and CSS to make up the website
+
+. How is JavaScript different from other programming languages ? 
+We place the JavaScript code into the webpage and the browser executes it.
+
+Where do we place our JavaScript code? We place JavaScript in the <script> element tag within our HTML web page. The <script> element tag is placed within the <head> element tag.
+
