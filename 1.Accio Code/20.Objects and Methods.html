@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+	<link rel="stylesheet" href="css/foundation.min.css">
+</head>
+
+<body>
+
+	<!-- JAVASCRIPT -->
+	<script type="text/javascript">
+	function team (name, lastSuperbowlYear)
+	{
+		this.name 				= name;
+		this.lastSuperbowlYear	= lastSuperbowlYear;
+		this.yearsSinceSuperbowl = lastSuperbowl;
+	}
+
+	function lastSuperbowl()
+	{
+		var thisYear 			= 2014;
+		var numYears 			= thisYear - this.lastSuperbowlYear;
+		return numYears;
+	}
+
+	var Ravens 		= new team("Baltimore Ravens", 2013);
+
+	document.write(Ravens.yearsSinceSuperbowl());
+	</script>
+	<!-- END JAVASCRIPT -->
+</body>
+</html>

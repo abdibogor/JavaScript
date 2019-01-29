@@ -1,0 +1,29 @@
+<!doctype>
+<html lang="en">
+<head>
+	<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+</head>
+
+<body>
+
+	<!-- JAVASCRIPT -->
+	<script language="javascript" type="text/javascript">
+		
+		function getWinners()
+		{
+
+			var currentTime 			= new Date();
+			var hours 					= currentTime.getHours();
+			var minutes 				= currentTime.getMinutes();
+			var seconds 				= currentTime.getSeconds();
+
+			console.log('Seahawks Won! Are Champs now! : ' + hours + ':' + minutes + ':' + seconds);
+		}
+		setInterval("getWinners()", 1000);
+		/*
+		ctrl+shift+i // google chrome
+	</script>
+	<!-- END JAVASCRIPT -->
+</body>
+</html>

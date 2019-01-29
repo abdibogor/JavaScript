@@ -1,0 +1,6 @@
+5 Things that make JavaScript WEIRD ...and AWESOME
+-> First Class Functions
+-> Event-Drivent Environment
+-> Closures
+-> Scope
+-> Content

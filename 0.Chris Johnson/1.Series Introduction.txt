@@ -1,0 +1,14 @@
+Our gameplan for this series:
+
+Creating a simple javaScript applciation using Notepad and interne Explorer
+Using Visual Web Developper Express Edition to create javaScript applications
+JavaScript Language Basics
+Document Object Model(DOM)
+jQuery
+JavaScript Best Practices & Conventions
+
+What is Javascript used for?
+
+Show/hide/style web page elements in response to a user's interaction with other elements on the web page.Array
+Client-side form field validation
+Animation, interactivity, etc.

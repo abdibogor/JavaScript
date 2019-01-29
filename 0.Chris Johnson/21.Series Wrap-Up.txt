@@ -1,0 +1,26 @@
+Bob Tabor
+http://www.learnVisualStudio.NET
+
+Topics for Further Exploration: 
+
+Built-in string, math and array methods
+DOM API, events, browser implementation variances
+Building Metro-Style WinRT Apps
+Managing, Large JavaScript Projects ()
+jQuery&Other JavaScript libraries
+
+Books 
+"JavaScript Step by Step"
+by Steve Suehring Microsoft Press
+
+"JavaScript The Definitive Guide"
+by David Flanagan, O'Reilly
+
+"JavaScript: The Good Parts"
+by Douglas Crockford, O'Reilly
+
+"JavaScript Patterns"
+by Stoyan Stefanov, O'Reilly
+
+"Learning jQuery" & "jQuery Reference Guide"
+by Chaffer & Swedberg, Packt

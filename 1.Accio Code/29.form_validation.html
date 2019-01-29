@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Abdibogoreh</title>
+<link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+	<link rel="stylesheet" href="css/foundation.min.css"></link>
+</head>
+
+<body>
+
+	<form name="newForm">
+		<label>Username:</label> <input type="text" name="username">
+		<label>Password:</label> <input type="password" name="password">
+		<input type="submit" value="Submit" class="button">
+	</form>
+
+
+	<!-- JAVASCRIPT -->
+	<script language="javascript" type="text/javascript">
+		 var uname = document.newForm.username.name;
+		 var pword = document.newForm.password.name;
+		 console.log(uname);
+		 console.log(pword);
+		/*
+		var submitBtn 		= document.getElementById('submitBtn');
+		submitBtn.addEventListener("click", validateForm);
+
+		function validateForm()
+		{
+			var uname 			= document.newForm.username.value;
+			var pword 			= document.newForm.password.value;
+
+			if((uname == "") && (pword == ""))
+			{
+				alert('You need to fill out the form!!!!');
+			}
+			else
+			{
+				console.log('You have entered info.');
+			}
+		}
+*/
+		
+	</script>
+	<!-- END JAVASCRIPT -->
+</body>
+</html>

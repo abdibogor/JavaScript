@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Abdibogoreh</title>
+    <script type="text/javascript" src="script13.js"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+  </head>
+  <body>
+    <h1 id="title">13. Understanding the Document Object Model</h1>
+    <div id="main">
+      <p id="first">This is the first paragraph</p>
+      <p id="second">
+	<strong>Second paragraph</strong>    
+      </p>
+      <p id="third">Third paragraph</p>
+    </div>
+    <div id="form">
+    <input type="submit" id="clickMe" value="Click Me" />
+    <script type="text/javascript">
+      document.getElementById('clickMe').onclick = runTheExample;
+    </script>
+      <a href="http://www.bing.com" id="myAnchor">Bing!</a>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Abdibogoreh</title>
+  <link rel="shortcut icon" type="image/x-icon" href="abdi.jpg"/>
+  <script type="text/javascript">
+
+/*
+
+Arrays store multiple values in a single variable.
+
+var candidates = [];
+candidates[0] = "locke";
+candidates[1] = "reyes";
+candidates[2] = "ford";
+
+alert("Jacob chooses: " + candidates[1]);
+
+
+var candidates = ["jarrah", "shephard", "kwon"];
+alert("Jacob chooses: " + candidates[1]);
+
+
+var flightDate = new Date("September 22, 2004");
+var myValues = ["Oceanic", 815, flightDate];
+
+for (i in myValues)
+{
+  document.write("<br />" + myValues[i]);
+}
+   //output 
+   //Oceanic
+   //815
+   //Wed sep 22:00:00 CDT 2004
+*/
+
+// Associative arrays
+var caveList = [];
+caveList["locke"] = 4;
+caveList["Reyes"] = 8;
+caveList["ford"] = 15;
+caveList["jarrah"] = 16;
+caveList["shepherd"] = 23;
+caveList["kwon"] = 42;
+
+alert("Sawyer's number: " + caveList["ford"]);
+
+/*
+Associative Arrays
+
+While many programming languages support arrays with named indexes (text instead of numbers), called associative arrays, JavaScript does not.
+However, you still can use the named array syntax, which will produce an object. 
+*/
+
+/*
+Associative Arrays
+
+Remember that JavaScript does not support arrays with named indexes.
+In JavaScript, arrays always use numbered indexes.
+It is better to use an object when you want the index to be a string (text).
+Use an array when you want the index to be a number.
+If you use a named index, JavaScript will redefine the array to a standard object.
+*/
+
+  </script>
+</head>
+<body>
+  <h1>8. JavaScript Arrays</h1>
+</body>
+</html>
