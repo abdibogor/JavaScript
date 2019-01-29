@@ -61,6 +61,8 @@
 	* __JQuery__
 	* __Angular__
 	* __Reactjs__
+	* __JSON__
+	* __AJAX__
 
 * Server
 	* Ruby on Rails
@@ -68,6 +70,7 @@
 	* ASP.NET
 	* Django
 	* JAVA EE
+
 
 
 Do Not Rely(compte) on JavaScript
