@@ -72,6 +72,7 @@
 	* JAVA EE
 	* Node.js
 	* Raspberry Pi
+	* Python
 
 
 
